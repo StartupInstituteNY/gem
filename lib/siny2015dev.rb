@@ -8,6 +8,8 @@ class Students
     / /   / /   / / / /  /  / / /    \\   /  / /  \\ \\_       / /   / // / / /__/ /  _
    /_/   /_/   /_/ /_/  /__/ /_/      \\_/  /_/    \\__|     /_/   /____/ /______/  /_/
 
+   brought to you by Braden, Neha, Jared, Yohan.
+   XOXO
    ")
   end
 end
