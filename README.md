@@ -16,7 +16,7 @@
 ![](http://i.giphy.com/14cF3BtmNmSGfC.gif)  
 
 **Jared**  
-![](http://i.giphy.com/WUuBBKNChNnzy.gif)  
+![](http://i.giphy.com/1241gPGrikextC.gif)  
 
 **Yohan**  
 ![](http://i.giphy.com/3o85xxKG5W2xv7ZK1y.gif)  
